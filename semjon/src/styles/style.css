@@ -59,7 +59,7 @@ a {
 
 .main{
     padding:10px;
-    display: flex;
+    display: grid;
 }
 
 .one{
