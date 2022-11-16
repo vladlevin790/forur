@@ -62,8 +62,7 @@ a {
 .main{
     padding:10px;
     display: grid;
-    max-width: 1300px;
-    margin: 0 auto;
+  
 }
 
 .one{
