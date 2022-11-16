@@ -382,15 +382,6 @@ span.psw {
        width: 100%;
     }
 }
-footer{
-	display:flex;
-}
-.footer_1{
-    margin-left: auto;
-    margin-right: auto;
-    color:#0098f7;
-    text-shadow:1px 1px 1px #e92c2c;
-}
 
 .dark-theme{
     transition: .3s all;
