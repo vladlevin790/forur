@@ -17,7 +17,7 @@ body {
 }
 
 .head .container {
-    display:flex;
+    display:grid;
     grid-template-columns: 150px 1fr;
     padding: 10px 0 
 }
