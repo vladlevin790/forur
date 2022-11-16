@@ -74,6 +74,8 @@ a {
     min-height:200px ;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .one:hover{
@@ -88,6 +90,8 @@ a {
     min-height:200px;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .two:hover{
@@ -102,6 +106,8 @@ a {
     min-height:200px ;;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .three:hover{
@@ -116,6 +122,8 @@ a {
     min-height:200px ;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .four:hover{
@@ -130,6 +138,8 @@ a {
     min-height:200px ;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .five:hover{
@@ -144,6 +154,8 @@ a {
     min-height:200px ;
 	box-shadow: 5px 5px 5px #2c9de9;
     transition: .3s all;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .six:hover{
