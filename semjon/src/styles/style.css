@@ -12,11 +12,12 @@ body {
 }
 
 .container {
+    max-width:1300px;
     margin: 0 auto;
 }
 
 .head .container {
-    display:grid;
+    display:flex;
     grid-template-columns: 150px 1fr;
     padding: 10px 0 
 }
