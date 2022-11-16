@@ -10,9 +10,15 @@ body {
     margin:0; 
     box-sizing: border-box;
 }
-@media screen and (max-width: 1280px) { div.conteiner {width: 1200px;} }
-@media screen and (max-width: 1140px) { div.conteiner {width: 1024px;} } 
-@media screen and (max-width: 992px) { div. conteiner {width: 970px;} } 
+@media screen and (max-width: 1280px) { div.conteiner {width: 1200px;}
+	main{margin-left:auto; margin-right:auto;}
+	footer{margin-left:auto; margin-right:auto;}}
+@media screen and (max-width: 1140px) { div.conteiner {width: 1024px;} 
+main{margin-left:auto; margin-right:auto;}
+	footer{margin-left:auto; margin-right:auto;}} 
+@media screen and (max-width: 992px) { div. conteiner {width: 970px;}
+main{margin-left:auto; margin-right:auto;}
+	footer{margin-left:auto; margin-right:auto;}} 
 
 .container {
     max-width:1300px;
