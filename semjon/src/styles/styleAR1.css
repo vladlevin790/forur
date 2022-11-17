@@ -262,6 +262,9 @@ body.dark-theme {
   body.dark-theme span{
     text-shadow: 1px 2px 2px#0098f7;
   }
+body.dark-theme .txt_1{
+    text-shadow: 1px 2px 2px#0098f7;
+  }
   
   span{
     font-size: 20px;
